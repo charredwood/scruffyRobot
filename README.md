@@ -1,4 +1,4 @@
 # scruffyRobot
 
-Scruffy the robot dog's codes for thesis project
-[details]https://scj.onl/Scruffy-the-Robot-Dog
+Scruffy the robot dog's codes for the thesis project
+[details]https://evenlayer.com
